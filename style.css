@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.top {
+    background-color: white;
+}
+.container{
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.fury{
+    padding: 20px;
+    margin-bottom: 30px;
+    border: solid black;
+    font-size: 1.2rem;
+}
+.shield{
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
+}
+.likes{
+    padding: 20px;
+}
+.likebutton {
+    background: yellow;
+    padding: 4px 8px;
+    font-size: 1.2rem;
+    border: solid black;
+    border-radius: 0px;
+    box-shadow: 2px 2px #222;
+    margin-left: 20px;
+}
